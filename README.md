@@ -1,4 +1,5 @@
-Spotify Playlist
+<b><center>Spotify Playlist</b></center>
+
 Author: Payam Abbasi
 
 Email: AbbasiRealty@Gmail.com
