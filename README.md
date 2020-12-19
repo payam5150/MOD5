@@ -7,6 +7,9 @@
 <b>Date:</b> 12-21-20
 
 -------------------------------------------------------------------------------------
+
+Dataset: Spotify Playlist-Clean_v2
+-------------------------------------------------------------------------------------
 <b>Project Statement:</b> As a Data Scientist, I have been tasked to research what makes a song popular based on a Spotify Dataset. 
 
 <b>Project Goal:</b> To dig deep into the wonderful world of music and find out what makes a song popular. Does the release date make a difference? Does the artist make a difference? Does having a marketing team behind you make a difference? Does having a big budget make a differnce? 
