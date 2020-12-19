@@ -18,7 +18,7 @@
 
 We ran 4 different models <b>(Decision Tree Model, Random Forest Model, XGBoost Model & Linear Regression)</b> and each painted us a different story. Although things like "danceability," "loudness," and "key," make a difference, it is really hard to say what makes a song popular since music changes daily. Furthermore, in the real world, things like marketing and having a large budget plays a big roll. 
 
-Conclusion: If you are wondering how a song that you do not like hits #1 on the charts, you may want to look at who released it under what music label. 
+Conclusion: If you are wondering how a song that you do not like hits #1 on the charts, you may want to look into what music label released it and what type of budget they were working with. 
 
 --------------------------------------------------------------------------------------
 <b>Technical Team: Please open Mod-5-Top_50_Songs - FINAL to view the python codes.</b>
