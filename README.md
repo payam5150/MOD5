@@ -1,4 +1,4 @@
-<b><center>Spotify Playlist</b></center>
+<b><center><h1 style="color:red;font-size:40px;">Spotify Playlist</b></h1></center>
 ------------------------------------------------------------------------------------
 
 <b>Author:</b> Payam Abbasi
