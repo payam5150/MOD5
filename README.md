@@ -1,4 +1,5 @@
 <b><center>Spotify Playlist</b></center>
+------------------------------------------------------------------------------------
 
 <b>Author:</b> Payam Abbasi
 
@@ -9,6 +10,7 @@
 -------------------------------------------------------------------------------------
 
 Dataset: Spotify Playlist-Clean_v2
+
 -------------------------------------------------------------------------------------
 <b>Project Statement:</b> As a Data Scientist, I have been tasked to research what makes a song popular based on a Spotify Dataset. 
 
