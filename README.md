@@ -23,5 +23,6 @@ Conclusion: If you are wondering how a song that you do not like hits #1 on the 
 --------------------------------------------------------------------------------------
 <b>Technical Team: Please open Mod-5-Top_50_Songs - FINAL to view the python codes.</b>
 
-
-<div style="background-image: url('img_girl.jpg');">
+<html>
+<img src="Mod5 - Pic1.png" />
+</html>
