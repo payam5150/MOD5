@@ -1,9 +1,9 @@
 <b><center><h1 style="color:red;font-size:40px;">Spotify Playlist</b></h1></center>
 ------------------------------------------------------------------------------------
 
-<b>Author:</b> Payam Abbasi
+<b>Author:</b> Payam Abbasi & Dorsa Ghahri
 
-<b>Email:</b> AbbasiRealty@Gmail.com
+<b>Email:</b> AbbasiRealty@Gmail.com & Dorsa.ghahri@gmail.com
 
 <b>Date:</b> 12-21-20
 
